@@ -9,8 +9,8 @@ const FruitSelector = () => {
     <div className="flex justify-center items-center h-screen">
       <Card className="w-[350px]">
         <CardHeader>
-          <CardTitle>Fruit Selector</CardTitle>
-          <CardDescription>Choose your favorite fruit from the options below.</CardDescription>
+          <CardTitle>Fruit Selectors</CardTitle>
+          <CardDescription>Choose your favorite banana from the options below.</CardDescription>
         </CardHeader>
         <CardContent>
           <p className="mb-4">Selected fruit: {selectedFruit || 'no selection'}</p>
