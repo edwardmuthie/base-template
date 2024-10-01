@@ -10,7 +10,7 @@ const FruitSelector = () => {
       <Card className="w-[350px]">
         <CardHeader>
           <CardTitle>Fruit Selector</CardTitle>
-          <CardDescription>Choose your favorite fruit from the options below.</CardDescription>
+          <CardDescription>Choose your favorite pineapple from the options below.</CardDescription>
         </CardHeader>
         <CardContent>
           <p className="mb-4">Selected fruit: {selectedFruit || 'no selection'}</p>
